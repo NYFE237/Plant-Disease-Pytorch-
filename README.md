@@ -65,6 +65,6 @@ files.upload()  # upload train.py + PlantVillage.zip
 - ModelCheckpoint (best val accuracy)
 
 ## Author
-**[Ton Prénom Nom]** — Master in Data Science, University of Luxembourg  
+**Frank Evin Yami** — Master in Data Science, University of Luxembourg  
 Part of thesis work on deep learning for agricultural diagnostics.  
 Previous training: NVIDIA Tesla V100, UniLu HPC cluster.
