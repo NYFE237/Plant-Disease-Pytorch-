@@ -1,0 +1,20 @@
+{
+  "CNN": {
+    "accuracy": 0.9500,
+    "macro_f1": 0.9500,
+    "macro_precision": 0.9400,
+    "macro_recall": 0.9500
+  },
+  "ResNet50": {
+    "accuracy": 0.9900,
+    "macro_f1": 0.9800,
+    "macro_precision": 0.9700,
+    "macro_recall": 0.9800
+  },
+  "EfficientNet-B0": {
+    "accuracy": 0.9990,
+    "macro_f1": 0.9990,
+    "macro_precision": 0.9990,
+    "macro_recall": 0.9990
+  }
+}
