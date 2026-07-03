@@ -110,4 +110,4 @@ Thesis supervised by Dr. Senthil NAGARAJAN
 Original thesis models trained on NVIDIA Tesla V100 (UniLu HPC).
 This repository reimplements and extends the thesis work in native PyTorch.
 
-GitHub: [github.com/NYFE237](https://github.com/NYFE237)
+GitHub: [github.com/NYFE237](https://github.com/NYFE237/Plant-Disease-Pytorch-)
